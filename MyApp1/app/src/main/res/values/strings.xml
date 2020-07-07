@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp1</string>
+    <string name="tv_title">Hello World</string>
+    <string name="title_change">Thank you!</string>
+    <string name="btn_tv">click to change the title</string>
+    <string name="tv_cb">Which do you like?</string>
+    <string name="cb_1">Apple</string>
+    <string name="cb_2">Peach</string>
+    <string name="cb_3">Orange</string>
+</resources>
